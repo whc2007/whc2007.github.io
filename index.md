@@ -1,1 +1,3 @@
 欢迎来到whc博客哦
+<br>
+<a href="//whc2007.github.io/new">前往主页</a>
