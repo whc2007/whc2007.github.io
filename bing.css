@@ -1,3 +1,15 @@
+*{margin: 0px;}
+html, body
+{
+	background-color: transparent;
+	overflow: hidden;
+	font-family: 'Segoe UI', Tahoma, 'Microsoft Yahei UI', sans-serif;
+	font-size: 18px;
+	font-weight: 100;
+	color: #ffffff;
+}
+a, a:link, a:visited{color: inherit;}
+a:hover{font-weight: 400;}
 #bg
 {
 	background-image: url(https://www.yangshangzhen.com/bing/wallpaper);
