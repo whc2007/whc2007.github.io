@@ -1,0 +1,9 @@
+#bg
+{
+	background-image: url(https://www.yangshangzhen.com/bing/wallpaper);
+	background-size: cover;
+	position: fixed;
+	z-index: -1;
+	width: 100vw;
+	height: 100vh;
+}
